@@ -1,0 +1,39 @@
+/*Only other method I could find that worked used an IMG with a negative
+index in a container. Problem was image dropped behind the rest of
+the backdrop*/
+#artists-1{
+	background: url(http://placehold.it/194x194);
+}
+#artists-2{
+	background: url(http://placehold.it/194x194);
+}
+#artists-3{
+	background: url(http://placehold.it/194x194);
+}
+#artists-4{
+	background: url(http://placehold.it/194x194);
+}
+#artists-5{
+	background: url(http://placehold.it/194x194);
+}
+#artists-6{
+	background: url(http://placehold.it/194x194);
+}
+#artists-7{
+	background: url(http://placehold.it/194x194);
+}
+#artists-8{
+	background: url(http://placehold.it/194x194);
+}
+#artists-9{
+	background: url(http://placehold.it/194x194);
+}
+#artists-10{
+	background: url(http://placehold.it/194x194);
+}
+#artists-11{
+	background: url(http://placehold.it/194x194);
+}
+#artists-12{
+	background: url(http://placehold.it/194x194);
+}

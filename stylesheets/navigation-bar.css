@@ -1,0 +1,25 @@
+#nav-bar{
+	z-index:10;
+	/*position: fixed;*/
+	width: 100%;
+	border: 1px solid #979797;
+	background-color: #D8D8D8;
+	padding-bottom: 10px;
+}
+
+#nav-bar ul {
+	list-style:none;
+}
+
+#nav-bar ul li {
+	float:right;
+	font-size:33px;
+	padding:0 10px;
+	
+}
+
+#navbar-logo {
+	font-size:48px;
+	margin-left: 10px;
+	line-height: 70%
+}
